@@ -1,5 +1,5 @@
 # mssc-brewery
-Course by SpringFrameworkGuru (SFG)
+
 
 # SFG Beer Works
 Theme of the services is beer distribution
@@ -13,4 +13,7 @@ Theme of the services is beer distribution
 - - JPA is specification. Hibernate is implementation. Any ORM can implement JPA. 
 - Hibernate (ORM by RedHat for JVM)
 
-# (Include here command to run program)
+## (Include here command to run program)
+
+## Reference
+Course by SpringFrameworkGuru (SFG) (on udemy)
